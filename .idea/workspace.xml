@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfbac15c-efd6-492a-aed0-a71a9bff0560" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1avWv0BZiUv4nG0OVJYsWoaRaUQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShippingServiceApplication">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="axon-saga-orchestration" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="axon-saga-orchestration" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoreApisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="core-apis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.coreapis.CoreApisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="payment-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.paymentservice.PaymentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shipping-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shippingservice.ShippingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfbac15c-efd6-492a-aed0-a71a9bff0560" name="Default Changelist" comment="" />
+      <created>1587616774582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587616774582</updated>
+      <workItem from="1587616776038" duration="4492000" />
+      <workItem from="1587621306987" duration="2797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2308" y="27" width="827" height="826" key="#CoreApisApplication" timestamp="1587621188706">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2308" y="27" width="827" height="826" key="#CoreApisApplication/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587621188706" />
+    <state x="2528" y="118" width="374" height="642" key="#com.intellij.ide.util.MemberChooser" timestamp="1587617895369">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2528" y="118" width="374" height="642" key="#com.intellij.ide.util.MemberChooser/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587617895369" />
+    <state x="2498" y="198" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587617088781">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2498" y="198" width="424" height="484" key="FileChooserDialogImpl/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587617088780" />
+    <state width="1067" height="225" key="GridCell.Tab.0.bottom" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.0.center" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.0.center/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.0.left" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.0.left/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.0.right" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.0.right/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.1.bottom" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.1.bottom/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.1.center" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.1.center/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.1.left" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.1.left/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state width="1067" height="225" key="GridCell.Tab.1.right" timestamp="1587624103823">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1067" height="225" key="GridCell.Tab.1.right/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587624103823" />
+    <state x="2029" y="27" width="1372" height="826" key="new project wizard" timestamp="1587620547460">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2029" y="27" width="1372" height="826" key="new project wizard/1920.0.1600.900/0.27.1920.826@1920.0.1600.900" timestamp="1587620547460" />
+  </component>
+</project>
